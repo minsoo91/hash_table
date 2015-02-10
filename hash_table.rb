@@ -1,3 +1,6 @@
+# Inspired by Learn Ruby the Hard Way by Zed Shaw
+# http://learnrubythehardway.org/book/ex39.html
+
 class HashTable
 	attr_accessor :store
 	def initialize(num_buckets=256)
